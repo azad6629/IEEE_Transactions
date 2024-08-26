@@ -1,7 +1,7 @@
 # IEEE_Transactions
 
 | Journal | IF | CiteScore |
-| --- | --- | --- |
+| --- | :---: | :---: |
 | IEEE Transactions on Neural Networks and Learning Systems (TNNLS) | 10.2 | 23.8 |
 | IEEE Transactions on Image Processing (TIP) | 10.8 | 20.9 |
 | IEEE Transactions on Medical Imaging (TMI) | 8.9 | 21.8 |
