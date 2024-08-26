@@ -1,8 +1,8 @@
 # IEEE_Transactions
 
-| Journal | IF | CiteScore |
+| **Journal** | **IF** | **CiteScore** |
 | --- | :---: | :---: |
-| IEEE Transactions on Neural Networks and Learning Systems (TNNLS) | 10.2 | 23.8 |
+| [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)]{https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385} | 10.2 | 23.8 |
 | IEEE Transactions on Image Processing (TIP) | 10.8 | 20.9 |
 | IEEE Transactions on Medical Imaging (TMI) | 8.9 | 21.8 |
 | IEEE Transactions on Affective Computing (TAC) | 9.6 | 15.0 |
