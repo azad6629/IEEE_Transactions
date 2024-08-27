@@ -2,6 +2,7 @@
 
 | **Journal** | **IF** | **CiteScore** |
 | --- | :---: | :---: |
+| [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 20.8 | 28.4 |
 | [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | 10.2 | 23.8 |
 | [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) | 10.8 | 20.9 |
 | [IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) | 8.9 | 21.8 |
